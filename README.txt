@@ -1,3 +1,3 @@
 # DEMO Project README
 
-this is a simple readme file
+just something going on
